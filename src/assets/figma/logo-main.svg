@@ -1,0 +1,18 @@
+<svg width="32" height="24" viewBox="0 0 32 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_25)">
+<mask id="mask0_0_25" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-1" y="0" width="34" height="25">
+<path d="M-0.0106506 0H32.0748V24.064H-0.0106506V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_25)">
+<path d="M-8.032 0H40.0969V24.0645H-8.032V0Z" fill="#000066"/>
+<path d="M-8.032 0V2.69047L34.7161 24.0646H40.0969V21.3742L-2.6512 0H-8.032ZM40.0969 0V2.69042L-2.6512 24.0645H-8.032V21.374L34.7161 0H40.0969Z" fill="white"/>
+<path d="M12.0217 0V24.0645H20.0432V0H12.0217ZM-8.032 8.02149V16.043H40.0969V8.02149H-8.032Z" fill="white"/>
+<path d="M-8.032 9.62579V14.4387H40.0969V9.62579H-8.032ZM13.6261 0V24.0645H18.4389V0H13.6261ZM-8.032 24.0645L8.01098 16.043H11.5982L-4.44477 24.0645H-8.032ZM-8.032 0L8.01098 8.02149H4.42375L-8.032 1.79371V0ZM20.4667 8.02149L36.5097 0H40.0969L24.054 8.02149H20.4667ZM40.0969 24.0645L24.054 16.043H27.6412L40.0969 22.2709V24.0645Z" fill="#CC0000"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_25">
+<rect width="32" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
